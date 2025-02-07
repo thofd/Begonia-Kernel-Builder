@@ -4,7 +4,7 @@
       "name": "gauguin",
       "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
       "branch": "main",
-      "device": "begonia",
+      "device": "gauguin",
       "defconfig": "vendor/gauguin_user_defconfig"
     },
     "withKernelSU": true,
